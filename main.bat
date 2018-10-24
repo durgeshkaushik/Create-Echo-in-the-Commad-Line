@@ -1,1 +1,1 @@
-Do Try Your OWN to do
+echo "It's So Easy"
